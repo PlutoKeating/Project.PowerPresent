@@ -1,0 +1,31 @@
+# 原始参考素材（体积大，且含第三方品牌内容）：只在本地保留，不入库
+docs/references/
+
+# 已移除的旧示例与复刻目录：禁止再次入库
+replicas/
+examples/ewave/
+examples/gallery/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 构建与渲染的中间产物
+build/
+*.tmp
+dist/
+
+# 本地环境与密钥
+.env
+.env.*
+!.env.example
+
+# 编辑器与系统
+.DS_Store
+.idea/
+.vscode/
+# Office 临时锁文件
+~$*
+.~lock.*

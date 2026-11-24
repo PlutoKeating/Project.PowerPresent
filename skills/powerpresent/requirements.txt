@@ -1,0 +1,6 @@
+# PowerPresent 核心依赖
+python-pptx>=1.0.2
+Pillow>=11
+
+# 可选：只有调用 generate_image.py 生成图片时需要
+google-genai>=1.0

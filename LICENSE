@@ -1,0 +1,67 @@
+PowerPresent
+Copyright (c) 2026 PlutoKeating
+
+本仓库采用双许可证。除非某个文件另有说明，授权范围按下面的划分执行。
+
+======================================================================
+1. 代码：MIT License
+======================================================================
+
+适用范围包括但不限于：
+
+- skills/powerpresent/scripts/**
+- tools/**
+- examples/**/*.py
+- install.sh、package_skill.py 等构建与安装脚本
+
+MIT License
+
+Copyright (c) 2026 PlutoKeating
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+======================================================================
+2. 文档、指南、幻灯片与视觉素材：CC BY-NC 4.0
+======================================================================
+
+适用范围包括但不限于：
+
+- SKILL.md、README.md、CHANGELOG.md、references/**
+- assets/**、examples/**/assets/**、examples/**/out/**
+- 其他说明文字、模板、示意图与生成图片
+
+Creative Commons Attribution-NonCommercial 4.0 International
+（知识共享 署名—非商业性使用 4.0 国际，CC BY-NC 4.0）
+
+你可以自由地共享和改编这些材料，但必须：
+
+- 署名（Attribution）：注明作者与来源，并附上许可证链接；
+- 非商业性使用（NonCommercial）：不得将材料用于商业目的。
+
+完整法律条款见同目录的 LICENSE-CC-BY-NC-4.0.txt，或：
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+许可证摘要：
+https://creativecommons.org/licenses/by-nc/4.0/
+
+建议署名格式：
+"PowerPresent by PlutoKeating, licensed under CC BY-NC 4.0."
+
+如果某个文件同时包含代码与内容，代码部分按 MIT 授权，内容部分按
+CC BY-NC 4.0 授权。需要商业使用授权，请联系作者另行协商。

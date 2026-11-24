@@ -1,0 +1,11 @@
+[project]
+name = "powerpresent"
+version = "1.0.2"
+description = "PowerPresent：面向 Agent 的演示文稿构建规范、组件库与工作流"
+requires-python = ">=3.11"
+dependencies = [
+    "python-pptx>=1.0.2",
+    "Pillow>=11",
+    "playwright>=1.49",
+    "google-genai>=1.0",
+]
